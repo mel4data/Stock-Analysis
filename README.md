@@ -1,5 +1,14 @@
 # Stock-Analysis (using Python)
 
+Analysis of stocks from Apple, Google, and Microsoft from January 2010 to April 2024
+
+The following are done:
+1. EDA
+2. Calculation of Moving Average
+3. Calculation of Daily Returns
+4. Correlation of the stocks
+5. Calculation of Volatility
+ 
 ## Python Script
 
 import pandas as pd
